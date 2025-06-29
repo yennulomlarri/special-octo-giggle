@@ -1,6 +1,6 @@
 <!-- BANNER: This code uses a working link for your banner image. -->
 <p align="center">
-  <img src="https://i.imgur.com/GZ2nJqX.png" alt="Mateiyendou Kombat - Quantitative Software Engineer"/>
+  <img src="https://github.com/yennulomlarri/yennulomlarri" alt="Mateiyendou Kombat - Quantitative Software Engineer"/>
 </p>
 
 <h1 align="center">
