@@ -1,8 +1,4 @@
-<!-- BANNER: This code uses a working link for your banner image. -->
-<p align="center">
-  <img src="https://github.com/yennulomlarri/yennulomlarri" alt="Mateiyendou Kombat - Quantitative Software Engineer"/>
-</p>
-
+<!-- This is the new, text-based header. -->
 <h1 align="center">
   Hi there, I'm Mateiyendou Kombat 👋
 </h1>
@@ -11,7 +7,7 @@
   A Quantitative Software Engineer building data-driven solutions while pursuing dual degrees in Computer Science and Statistics.
 </h3>
 
-<br>
+---
 
 <!-- ABOUT ME: Your unique and accurate story. -->
 <details>
@@ -101,6 +97,5 @@ To achieve this, I am passionate about working on projects involving:
 <p align="center">
   <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/[your-twitter-username]" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <!-- Your email has been added here -->
   <a href="mailto:yennulomlarri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
