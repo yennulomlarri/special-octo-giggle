@@ -1,4 +1,11 @@
-<!-- This is the new, text-based header. -->
+<!-- 
+====================================================================================================
+This is your final, complete GitHub profile README. It includes all your personalizations.
+Follow the final instructions below to finish your profile.
+====================================================================================================
+-->
+
+<!-- This is the text-based header. -->
 <h1 align="center">
   Hi there, I'm Mateiyendou Kombat 👋
 </h1>
@@ -72,6 +79,11 @@ To achieve this, I am passionate about working on projects involving:
       <h3>ALX Project: Simple Shell</h3>
       <p>A custom implementation of a simple UNIX command-line interpreter, built entirely in C. This project demonstrates a deep understanding of low-level programming, memory management, and process handling.</p>
       <p><strong>Skills Demonstrated:</strong> C Programming, System Calls, Memory Management, Data Structures, Error Handling.</p>
+      <p><strong>Technologies
+    <td width="50%" valign="top">
+      <h3>ALX Project: Simple Shell</h3>
+      <p>A custom implementation of a simple UNIX command-line interpreter, built entirely in C. This project demonstrates a deep understanding of low-level programming, memory management, and process handling.</p>
+      <p><strong>Skills Demonstrated:</strong> C Programming, System Calls, Memory Management, Data Structures, Error Handling.</p>
       <p><strong>Technologies:</strong> C, Shell (Bash), Linux, Git.</p>
       <a href="[github_repo_url_for_simple_shell]" target="_blank">View on GitHub</a>
     </td>
@@ -80,13 +92,12 @@ To achieve this, I am passionate about working on projects involving:
 
 <br>
 
-<!-- GITHUB STATS: A fun, data-driven way to show your activity. -->
+<!-- GITHUB STATS: This section is now corrected with your username. -->
 ## 📊 My GitHub Stats
 
-<!-- Replace [your-github-username] with your actual GitHub username -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yennulomlarri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yennulomlarri&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <br>
